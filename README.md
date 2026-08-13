@@ -10,6 +10,21 @@ A passionate Junior Web Designer and Front-End Developer. I love creating visual
 
 ---
 
+## 🌟 Featured Project (مشروعي المميز)
+
+### 👗 ANAGA (أناقة) - Smart Fashion E-Commerce Platform
+An innovative e-commerce web application tailored for a smart and interactive clothing shopping experience.
+
+* 🔗 **Live Demo:** [Explore ANAGA Website](https://chic-finds-unfold.lovable.app)
+
+#### 🚀 Key Features of the Project:
+* **Instant Color Swapping:** Interactive color badges that dynamic switch product images instantly.
+* **Smart Size Guide:** A built-in calculator that suggests the perfect clothing size based on height and weight inputs.
+* **High-Definition Preview:** Multi-angle item view showcasing smooth fabric movements.
+* **Fully Responsive Design:** Crafted beautifully to adapt perfectly to mobile screens and desktops alike.
+
+---
+
 ## 🛠️ Tools I Use
 
 * 🎨 **Figma** - UI/UX Design & Prototyping
